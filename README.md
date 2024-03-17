@@ -38,7 +38,7 @@ There's already a preconfigured entry point for both CJS & ESM. JSON file offers
 
 > It is highly recommended to install biome toolchain & prettier formatter as extensions in your IDE (text editor)!
 
-Template includes [biome](https://biomejs.dev/), [prettier](https://prettier.io/), [tsup](https://tsup.egoist.dev/), [typescript](https://www.typescriptlang.org/) & [vitest](https://vitest.dev/) preinstalled. There're already a bunch of configs for them.
+Template includes [biome](https://biomejs.dev/), [prettier](https://prettier.io/), [tsup](https://tsup.egoist.dev/), [turbo](https://turbo.build/repo), [typescript](https://www.typescriptlang.org/) & [vitest](https://vitest.dev/) preinstalled. There're already a bunch of configs for them.
 
 # License
 

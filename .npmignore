@@ -2,11 +2,14 @@
 src
 public
 tests
+.turbo
 
 # Configs
-vite.config.ts
-tsconfig.json
 biome.json
+tsconfig.json
+tsup.config.ts
+turbo.json
+vite.config.ts
 .prettierignore
 
 # Markdown
