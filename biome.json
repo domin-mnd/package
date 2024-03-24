@@ -1,4 +1,4 @@
 {
-  "$schema": "https://biomejs.dev/schemas/1.5.3/schema.json",
-  "extends": ["./node_modules/@domin-mnd/config/biome/default.json"]
+  "$schema": "https://biomejs.dev/schemas/1.6.2/schema.json",
+  "extends": ["@domin-mnd/config/biome"]
 }
